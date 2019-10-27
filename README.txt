@@ -27,7 +27,7 @@ This is mostly Halloween as we know it, but with a few tweaks:
    of around 35Mbps so that it'll fit onto a 25GB Blu-ray disc with a little
    room left for a menu and potentially a bonus video or two if you like. The
    direct rip of the unedited film was 36.2Mbps and slightly too big at 25.5GB,
-   but this is a little over 22GB. I have attempted to ensure that it's
+   but this release is around 22.9GB. I have attempted to ensure that it's
    disc-compatible, but I don't reckon I want it on disc myself so burn at your
    own discretion (you might want to inspect the file closely before authoring).
 
