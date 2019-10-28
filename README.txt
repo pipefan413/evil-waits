@@ -31,6 +31,11 @@ This is mostly Halloween as we know it, but with a few tweaks:
    disc-compatible, but I don't reckon I want it on disc myself so burn at your
    own discretion (you might want to inspect the file closely before authoring).
 
+5. I've migrated the chapters from the 35th Anniversary Edition, realigned
+   them to account for the additional/removed frames at the start, added a new
+   one for the prologue, and given them all titles since they don't have any on
+   the disc or indeed anywhere on the packaging.
+
 
 I did this after re-watching Croweyes1121's Halloween: Revised Extended Edition,
 which adds the 1980 TV scenes to spoRv's THX-esque regraded release (Fundamental
@@ -93,3 +98,47 @@ AUDIO:
    
    As mentioned previously, I had to boost this by a little over 5dB to bring
    it more in line with the rest of the audio from the theatrical cut.
+
+
+--------------------------------------------------------------------------------
+-- CHAPTERS --------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+01: Smith's Grove, 1964
+TC: 00:00:00.000000000
+
+02: Halloween 1963
+TC: 00:01:17.744333333
+
+03: Smith's Grove, 1978
+TC: 00:08:17.747250000
+
+04: Halloween 1978
+TC: 00:12:25.453041666
+
+05: The Shape
+TC: 00:21:11.353416666
+
+06: Don't Fear The Reaper
+TC: 00:29:23.136375000
+
+07: Trick Or Treat
+TC: 00:36:02.451958333
+
+08: The Boogeyman
+TC: 00:45:22.386333333
+
+09: Hey Lonnie
+TC: 00:55:33.038041666
+
+10: See Anything You Like?
+TC: 01:01:37.902541666
+
+11: Pursuit
+TC: 01:10:29.850625000
+
+12: Was It The Boogeyman?
+TC: 01:20:51.221375000
+
+13: End Credits
+TC: 01:29:59.394000000
